@@ -1,0 +1,103 @@
+{
+    "collections":[
+        {
+            "id": 1,
+            "title": "Way Kambas Maple",
+            "image": "img/collection/maple/1.png",
+            "price":{ 
+                "value": "1.280.000",
+                "oldvalue": ""
+                },
+            "category": 1,
+            "url": "https://google.com"
+        },
+        {
+            "id": 2,
+            "title": "Tomia Ebony",
+            "image": "img/collection/ebony/1.png",
+            "price": {
+                "value": " 960.000",
+                "oldvalue": "1.280.000"
+            },
+            "category": 2,
+            "url": "https://google.com"
+        },
+        {
+            "id": 3,
+            "title": "Sikka (Ebony & Maple)",
+            "image": "img/collection/featured/1.png",
+            "price": {
+                "value": "1.198.000",
+                "oldvalue": ""
+            },
+            "category": 3,
+            "url": "https://google.com"
+        },
+        {
+            "id": 4,
+            "title": "Kaili",
+            "image": "img/collection/maple/2.png",
+            "price": {
+                "value": " 950.000",
+                "oldvalue": ""
+            },
+            "category": 1,
+            "url": "https://google.com"
+        },
+        {
+            "id": 5,
+            "title": "Mori",
+            "image": "img/collection/ebony/2.png",
+            "price": {
+                "value": " 950.000",
+                "oldvalue": ""
+            },
+            "category": 2,
+            "url": "https://google.com"
+        },
+        {
+            "id": 6,
+            "title": "Lore Walnut",
+            "image": "img/collection/featured/2.png",
+            "price": {
+                "value": "1.280.000",
+                "oldvalue": ""
+            },
+            "category": 3,
+            "url": "https://google.com"
+        },
+        {
+            "id": 7,
+            "title": "Sunda",
+            "image": "img/collection/maple/3.png",
+            "price": {
+                "value": " 1.170.000",
+                "oldvalue": ""
+            },
+            "category": 1,
+            "url": "https://google.com"
+        },
+        {
+            "id": 8,
+            "title": "Alor",
+            "image": "img/collection/ebony/3.png",
+            "price": {
+                "value": " 1.170.000",
+                "oldvalue": ""
+            },
+            "category": 2,
+            "url": "https://google.com"
+        },
+        {
+            "id": 9,
+            "title": "Way Kambas Limited Edition",
+            "image": "img/collection/featured/3.png",
+            "price": {
+                "value": "1.170.000",
+                "oldvalue": ""
+            },
+            "category": 3,
+            "url": "https://google.com"
+        }
+    ]
+}
